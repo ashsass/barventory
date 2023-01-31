@@ -14,7 +14,7 @@ An app that allows bar's to track their inventory and alert employees when somet
 
 * This can also include a section for prep and creating a system to manage how much prep needs to be done for the week depending on the company's pmix
 
-## Brainstorm a to do
+## brainstorm to do
 * In general, I need to come up with a style design. At this point I really don't know how I want the app to look
 
 * Create the foundation for inputing inventory for the bar 

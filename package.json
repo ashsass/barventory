@@ -1,0 +1,22 @@
+{
+  "name": "barventory",
+  "version": "1.0.0",
+  "description": "An app that allows you to control your bar inventory and alert employees on stock levels",
+  "main": "script.js",
+  "scripts": {
+    "compile:sass": "node-sass sass/main.scss css/style.css -w"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ashsass/barventory.git"
+  },
+  "author": "Ashlyn Sassaman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ashsass/barventory/issues"
+  },
+  "homepage": "https://github.com/ashsass/barventory#readme",
+  "devDependencies": {
+    "node-sass": "^8.0.0"
+  }
+}
